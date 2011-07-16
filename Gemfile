@@ -10,7 +10,8 @@ gem 'jquery-rails'
 gem 'rails_best_practices'
 gem 'haml'
 gem 'haml-rails'
-
+gem 'rspec-rails'
+gem 'rails3-generators'
 # Use unicorn as the web server
 # gem 'unicorn'
 
